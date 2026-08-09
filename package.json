@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/ronalfy/simple-comment-editing",
   "devDependencies": {
-    "@babel/core": "^7.1.2",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.1.0",
     "@wordpress/babel-plugin-makepot": "^2.1.2",
     "autoprefixer": "^8.5.0",
